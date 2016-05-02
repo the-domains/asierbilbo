@@ -1,0 +1,28 @@
+name: asierbilbo
+favicon: null
+layout_spectrum: 0.990157742286101
+typography_spectrum: 0.5414186657872051
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9371479123365134
+  lightness: 0.6711594704538584
+  saturation: 0.23361607315018773
+  rhythmicContrast: 0.21011043153703213
+purpose: []
